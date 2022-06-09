@@ -1,0 +1,6 @@
+name: "diamond-ore-reloaded"
+displayName: "[#33eeee]Diamond Ore[] Mod Reloaded" //what displays in the mod selection menu
+author: "z0mbiesrock renewed by Yuri2967"
+description: "Adds the [#33eeee]Diamond[] resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
+version: "[#9cb6f4]3.2.0[]"
+minGameVersion: "126"
